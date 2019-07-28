@@ -1,5 +1,5 @@
 # Introduction 
-T-SQL Code used in the post [Database Snapshot Basics]() on ShoestringDBA.
+T-SQL Code used in the post [Database Snapshot Basics](https://shoestringdba.com/?p=502) on ShoestringDBA.
 
 - CreateDatabase.sql - Script to create a demonstration database and populate a table with some initial data.
 - CreateSnapshot.sql - Sets up the snapshot for the demo database.
